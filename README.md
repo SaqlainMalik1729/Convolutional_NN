@@ -29,6 +29,7 @@ The project implements a CNN to classify fashion items from the Fashion MNIST da
 ## Usage
 
 1. Ensure the Fashion MNIST dataset (`fashion-mnist_train.csv`) is in the working directory
-2. Install required dependencies:
+2. The sample dataset is uploaded in the folder.
+3. Install required dependencies:
 ```bash
 pip install torch pandas scikit-learn matplotlib optuna
